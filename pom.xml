@@ -17,7 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<avro.version>1.11.0</avro.version>
+		<avro.version>1.11.1</avro.version>
 		<kafkaclient.version>0.11.0.1</kafkaclient.version>
 		<jakson.version>2.12.5</jakson.version>
 	</properties>
