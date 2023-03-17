@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<avro.version>1.11.0</avro.version>
-		<kafkaclient.version>0.11.0.1</kafkaclient.version>
+		<kafkaclient.version>0.11.0.2</kafkaclient.version>
 		<jakson.version>2.12.5</jakson.version>
 	</properties>
 
@@ -49,7 +49,7 @@
 		<dependency>
     			<groupId>com.thoughtworks.xstream</groupId>
 			<artifactId>xstream</artifactId>
-    			<version>1.4.2</version>
+    			<version>1.4.20</version>
 		</dependency>
 
 		<dependency>
